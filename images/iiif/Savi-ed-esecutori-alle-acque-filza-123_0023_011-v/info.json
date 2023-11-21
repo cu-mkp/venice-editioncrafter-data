@@ -26,7 +26,7 @@
   } ],
   "profile" : "http://iiif.io/api/image/2/level0.json",
   "width" : 3232,
-  "@id" : "https://gabrieledettori.github.io/intervistepescatori/images2/Savi-ed-esecutori-alle-acque-filza-123_0023_011-v",
+  "@id" : "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0023_011-v",
   "@context" : "http://iiif.io/api/image/2/context.json",
   "height" : 4773
 }
