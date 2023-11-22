@@ -1,0 +1,1567 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "http://4a453876-ea2c-482c-9756-0f9a4911c352",
+  "@type": "sc:Manifest",
+  "label": "Interviste ai pescatori",
+  "metadata": [],
+  "description": [
+    {
+      "@value": "Interviste ai pescatori",
+      "@language": "it"
+    }
+  ],
+  "license": "https://www.archiviodistatovenezia.it/it/",
+  "attribution": "Archivio di Stato di Venezia - Immagini non utilizzabili a fini di lucro",
+  "sequences": [
+    {
+      "@id": "http://4744ea95-030c-4755-acf8-3dd6f3365f8b",
+      "@type": "sc:Sequence",
+      "label": [
+        {
+          "@value": "Normal Sequence",
+          "@language": "it"
+        }
+      ],
+      "canvases": [
+        {
+          "@id": "http://c971dc88-1f01-4a1e-8756-52c1bd28ffd2",
+          "@type": "sc:Canvas",
+          "label": "Savi-ed-esecutori-alle-acque-filza-123_0001_coperta",
+          "height": 5205,
+          "width": 3663,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "http://3a7f4792-820e-4547-b998-cefa999b08d8",
+              "@type": "oa:Annotation",
+              "motivation": "sc:manuscript",
+              "resource": {
+                "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0001_coperta/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0001_coperta",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "height": 5205,
+                "width": 3663
+              },
+              "on": "http://c971dc88-1f01-4a1e-8756-52c1bd28ffd2"
+            }
+          ],
+          "related": ""
+        },
+        {
+          "@id": "http://75b1c3b4-be03-4041-9069-e396a7477f95",
+          "@type": "sc:Canvas",
+          "label": "Savi-ed-esecutori-alle-acque-filza-123_0002_001-r",
+          "height": 4489,
+          "width": 3101,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "http://cb185c80-9494-485e-ba1d-8aaeda5918f7",
+              "@type": "oa:Annotation",
+              "motivation": "sc:manuscript",
+              "resource": {
+                "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0002_001-r/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0002_001-r",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "height": 4489,
+                "width": 3101
+              },
+              "on": "http://75b1c3b4-be03-4041-9069-e396a7477f95"
+            }
+          ],
+          "related": ""
+        },
+        {
+          "@id": "http://ab4b8d19-5818-4f21-9d2b-2c53746fe51b",
+          "@type": "sc:Canvas",
+          "label": "Savi-ed-esecutori-alle-acque-filza-123_0003_001-v",
+          "height": 4592,
+          "width": 3030,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "http://313440fa-a1d9-47a3-8aab-d32380f8fdaa",
+              "@type": "oa:Annotation",
+              "motivation": "sc:manuscript",
+              "resource": {
+                "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0003_001-v/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0003_001-v",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "height": 4592,
+                "width": 3030
+              },
+              "on": "http://ab4b8d19-5818-4f21-9d2b-2c53746fe51b"
+            }
+          ],
+          "related": ""
+        },
+        {
+          "@id": "http://a69eb196-94e3-46f1-9608-62ed8aa1bfa0",
+          "@type": "sc:Canvas",
+          "label": "Savi-ed-esecutori-alle-acque-filza-123_0004_002-r",
+          "height": 4575,
+          "width": 3088,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "http://1d7ce878-86ba-4157-999a-b22dcb63ebd3",
+              "@type": "oa:Annotation",
+              "motivation": "sc:manuscript",
+              "resource": {
+                "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0004_002-r/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0004_002-r",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "height": 4575,
+                "width": 3088
+              },
+              "on": "http://a69eb196-94e3-46f1-9608-62ed8aa1bfa0"
+            }
+          ],
+          "related": ""
+        },
+        {
+          "@id": "http://2631c683-17ea-4208-b672-5a8b4e1002fa",
+          "@type": "sc:Canvas",
+          "label": "Savi-ed-esecutori-alle-acque-filza-123_0005_002-v",
+          "height": 4630,
+          "width": 3155,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "http://37e0c1f4-2922-45e0-9153-ebf8490b015b",
+              "@type": "oa:Annotation",
+              "motivation": "sc:manuscript",
+              "resource": {
+                "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0005_002-v/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0005_002-v",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "height": 4630,
+                "width": 3155
+              },
+              "on": "http://2631c683-17ea-4208-b672-5a8b4e1002fa"
+            }
+          ],
+          "related": ""
+        },
+        {
+          "@id": "http://438428dd-e40d-4324-a9a6-c51fd922f757",
+          "@type": "sc:Canvas",
+          "label": "Savi-ed-esecutori-alle-acque-filza-123_0006_003-r",
+          "height": 4665,
+          "width": 3109,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "http://4ea0ed8d-42cb-4d17-aac0-a3cfe240e26a",
+              "@type": "oa:Annotation",
+              "motivation": "sc:manuscript",
+              "resource": {
+                "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0006_003-r/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0006_003-r",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "height": 4665,
+                "width": 3109
+              },
+              "on": "http://438428dd-e40d-4324-a9a6-c51fd922f757"
+            }
+          ],
+          "related": ""
+        },
+        {
+          "@id": "http://06bca44c-20c9-4e4d-a44e-ce1deb1a4214",
+          "@type": "sc:Canvas",
+          "label": "Savi-ed-esecutori-alle-acque-filza-123_0007_003-v",
+          "height": 4573,
+          "width": 3122,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "http://db303069-89fe-41fa-bce7-6366655c7093",
+              "@type": "oa:Annotation",
+              "motivation": "sc:manuscript",
+              "resource": {
+                "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0007_003-v/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0007_003-v",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "height": 4573,
+                "width": 3122
+              },
+              "on": "http://06bca44c-20c9-4e4d-a44e-ce1deb1a4214"
+            }
+          ],
+          "related": ""
+        },
+        {
+          "@id": "http://671c6969-b0ea-42b0-8544-e5e0ef8a5531",
+          "@type": "sc:Canvas",
+          "label": "Savi-ed-esecutori-alle-acque-filza-123_0008_004-r",
+          "height": 4610,
+          "width": 3050,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "http://b669ec6c-173a-4305-9e9b-557b44ac0259",
+              "@type": "oa:Annotation",
+              "motivation": "sc:manuscript",
+              "resource": {
+                "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0008_004-r/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0008_004-r",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "height": 4610,
+                "width": 3050
+              },
+              "on": "http://671c6969-b0ea-42b0-8544-e5e0ef8a5531"
+            }
+          ],
+          "related": ""
+        },
+        {
+          "@id": "http://9f26a384-d299-4e57-b6a5-5a2cfd02c084",
+          "@type": "sc:Canvas",
+          "label": "Savi-ed-esecutori-alle-acque-filza-123_0009_004-v",
+          "height": 4602,
+          "width": 3254,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "http://8378664d-b9dd-4e16-b2cb-de208bda98c2",
+              "@type": "oa:Annotation",
+              "motivation": "sc:manuscript",
+              "resource": {
+                "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0009_004-v/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0009_004-v",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "height": 4602,
+                "width": 3254
+              },
+              "on": "http://9f26a384-d299-4e57-b6a5-5a2cfd02c084"
+            }
+          ],
+          "related": ""
+        },
+        {
+          "@id": "http://137439dc-e170-4ca5-a767-9398067678c7",
+          "@type": "sc:Canvas",
+          "label": "Savi-ed-esecutori-alle-acque-filza-123_0010_005-r",
+          "height": 4827,
+          "width": 3481,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "http://af3c4b26-7bed-4d18-b300-4a904c9be473",
+              "@type": "oa:Annotation",
+              "motivation": "sc:manuscript",
+              "resource": {
+                "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0010_005-r/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0010_005-r",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "height": 4827,
+                "width": 3481
+              },
+              "on": "http://137439dc-e170-4ca5-a767-9398067678c7"
+            }
+          ],
+          "related": ""
+        },
+        {
+          "@id": "http://2eb6a24d-c8d5-41fd-8190-c669161e8bff",
+          "@type": "sc:Canvas",
+          "label": "Savi-ed-esecutori-alle-acque-filza-123_0011_005-v",
+          "height": 4787,
+          "width": 3394,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "http://d96ef34e-6f7e-4c69-9ee9-a7a9b173b3ae",
+              "@type": "oa:Annotation",
+              "motivation": "sc:manuscript",
+              "resource": {
+                "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0011_005-v/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0011_005-v",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "height": 4787,
+                "width": 3394
+              },
+              "on": "http://2eb6a24d-c8d5-41fd-8190-c669161e8bff"
+            }
+          ],
+          "related": ""
+        },
+        {
+          "@id": "http://b1789f4d-4f00-4508-8d4a-47ce5522451f",
+          "@type": "sc:Canvas",
+          "label": "Savi-ed-esecutori-alle-acque-filza-123_0012_006-r",
+          "height": 4719,
+          "width": 3366,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "http://8c8f6952-1fd6-426b-b3fd-965bcfd6a3a4",
+              "@type": "oa:Annotation",
+              "motivation": "sc:manuscript",
+              "resource": {
+                "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0012_006-r/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0012_006-r",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "height": 4719,
+                "width": 3366
+              },
+              "on": "http://b1789f4d-4f00-4508-8d4a-47ce5522451f"
+            }
+          ],
+          "related": ""
+        },
+        {
+          "@id": "http://d8e8009d-552a-4588-96ce-11e7ac330fc1",
+          "@type": "sc:Canvas",
+          "label": "Savi-ed-esecutori-alle-acque-filza-123_0013_006-v",
+          "height": 4637,
+          "width": 3135,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "http://931629ab-7c86-49f0-b8a6-f8b3dc58bfe6",
+              "@type": "oa:Annotation",
+              "motivation": "sc:manuscript",
+              "resource": {
+                "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0013_006-v/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0013_006-v",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "height": 4637,
+                "width": 3135
+              },
+              "on": "http://d8e8009d-552a-4588-96ce-11e7ac330fc1"
+            }
+          ],
+          "related": ""
+        },
+        {
+          "@id": "http://21ead501-b447-4c86-a00c-c4c0e7cb95d5",
+          "@type": "sc:Canvas",
+          "label": "Savi-ed-esecutori-alle-acque-filza-123_0014_007-r",
+          "height": 4578,
+          "width": 3055,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "http://b9da3c63-934a-440f-98e1-6525cbb97051",
+              "@type": "oa:Annotation",
+              "motivation": "sc:manuscript",
+              "resource": {
+                "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0014_007-r/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0014_007-r",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "height": 4578,
+                "width": 3055
+              },
+              "on": "http://21ead501-b447-4c86-a00c-c4c0e7cb95d5"
+            }
+          ],
+          "related": ""
+        },
+        {
+          "@id": "http://310321c3-28ce-4f4b-a153-95abeea4d28a",
+          "@type": "sc:Canvas",
+          "label": "Savi-ed-esecutori-alle-acque-filza-123_0015_007-v",
+          "height": 4507,
+          "width": 3199,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "http://4a6017a3-a997-4e91-ae3f-ca41dd61d2db",
+              "@type": "oa:Annotation",
+              "motivation": "sc:manuscript",
+              "resource": {
+                "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0015_007-v/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0015_007-v",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "height": 4507,
+                "width": 3199
+              },
+              "on": "http://310321c3-28ce-4f4b-a153-95abeea4d28a"
+            }
+          ],
+          "related": ""
+        },
+        {
+          "@id": "http://5cdcd554-b31e-4c82-9541-8fbdc80ce8ca",
+          "@type": "sc:Canvas",
+          "label": "Savi-ed-esecutori-alle-acque-filza-123_0016_008-r",
+          "height": 4468,
+          "width": 3144,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "http://88206f0a-11ba-416a-a5f9-a0f79ad557c6",
+              "@type": "oa:Annotation",
+              "motivation": "sc:manuscript",
+              "resource": {
+                "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0016_008-r/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0016_008-r",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "height": 4468,
+                "width": 3144
+              },
+              "on": "http://5cdcd554-b31e-4c82-9541-8fbdc80ce8ca"
+            }
+          ],
+          "related": ""
+        },
+        {
+          "@id": "http://73ebb838-b10d-4dc6-a6df-2c34e2648b35",
+          "@type": "sc:Canvas",
+          "label": "Savi-ed-esecutori-alle-acque-filza-123_0017_008-v",
+          "height": 4479,
+          "width": 3142,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "http://d5b1b7ae-abac-4f83-9bd3-cb17766a635e",
+              "@type": "oa:Annotation",
+              "motivation": "sc:manuscript",
+              "resource": {
+                "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0017_008-v/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0017_008-v",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "height": 4479,
+                "width": 3142
+              },
+              "on": "http://73ebb838-b10d-4dc6-a6df-2c34e2648b35"
+            }
+          ],
+          "related": ""
+        },
+        {
+          "@id": "http://78b1a66a-1731-41b2-b418-bd40a9fca97d",
+          "@type": "sc:Canvas",
+          "label": "Savi-ed-esecutori-alle-acque-filza-123_0018_009-r",
+          "height": 4772,
+          "width": 3322,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "http://f0b255fc-3b46-4feb-ab1e-ca3f641f9e70",
+              "@type": "oa:Annotation",
+              "motivation": "sc:manuscript",
+              "resource": {
+                "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0018_009-r/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0018_009-r",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "height": 4772,
+                "width": 3322
+              },
+              "on": "http://78b1a66a-1731-41b2-b418-bd40a9fca97d"
+            }
+          ],
+          "related": ""
+        },
+        {
+          "@id": "http://a16e28aa-f744-4e33-9bb4-4fbf9ce1c49c",
+          "@type": "sc:Canvas",
+          "label": "Savi-ed-esecutori-alle-acque-filza-123_0019_009-v",
+          "height": 4747,
+          "width": 3325,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "http://95515d50-0ac3-4786-b80e-64df23d00973",
+              "@type": "oa:Annotation",
+              "motivation": "sc:manuscript",
+              "resource": {
+                "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0019_009-v/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0019_009-v",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "height": 4747,
+                "width": 3325
+              },
+              "on": "http://a16e28aa-f744-4e33-9bb4-4fbf9ce1c49c"
+            }
+          ],
+          "related": ""
+        },
+        {
+          "@id": "http://09eba3f8-0eb7-4501-af28-59dffe37b70f",
+          "@type": "sc:Canvas",
+          "label": "Savi-ed-esecutori-alle-acque-filza-123_0020_010-r",
+          "height": 4816,
+          "width": 3345,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "http://2a830cbb-62b5-43a2-9903-ec17f84679f8",
+              "@type": "oa:Annotation",
+              "motivation": "sc:manuscript",
+              "resource": {
+                "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0020_010-r/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0020_010-r",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "height": 4816,
+                "width": 3345
+              },
+              "on": "http://09eba3f8-0eb7-4501-af28-59dffe37b70f"
+            }
+          ],
+          "related": ""
+        },
+        {
+          "@id": "http://c8db4c5d-a083-4b65-8680-07ab469182a7",
+          "@type": "sc:Canvas",
+          "label": "Savi-ed-esecutori-alle-acque-filza-123_0021_010-v",
+          "height": 4776,
+          "width": 3324,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "http://ae209660-2433-4a1b-8b30-42544bf7375d",
+              "@type": "oa:Annotation",
+              "motivation": "sc:manuscript",
+              "resource": {
+                "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0021_010-v/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0021_010-v",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "height": 4776,
+                "width": 3324
+              },
+              "on": "http://c8db4c5d-a083-4b65-8680-07ab469182a7"
+            }
+          ],
+          "related": ""
+        },
+        {
+          "@id": "http://f43e6499-5617-4597-a882-b6dfdbb2aa12",
+          "@type": "sc:Canvas",
+          "label": "Savi-ed-esecutori-alle-acque-filza-123_0022_011-r",
+          "height": 4802,
+          "width": 3259,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "http://c375c66d-2c26-4d2d-a734-4046b272deee",
+              "@type": "oa:Annotation",
+              "motivation": "sc:manuscript",
+              "resource": {
+                "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0022_011-r/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0022_011-r",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "height": 4802,
+                "width": 3259
+              },
+              "on": "http://f43e6499-5617-4597-a882-b6dfdbb2aa12"
+            }
+          ],
+          "related": ""
+        },
+        {
+          "@id": "http://9a30b220-eef4-4fa2-962d-4434fe2a9927",
+          "@type": "sc:Canvas",
+          "label": "Savi-ed-esecutori-alle-acque-filza-123_0023_011-v",
+          "height": 4773,
+          "width": 3232,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "http://bdcd8117-20d8-48d2-97ed-5f58c598d447",
+              "@type": "oa:Annotation",
+              "motivation": "sc:manuscript",
+              "resource": {
+                "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0023_011-v/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0023_011-v",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "height": 4773,
+                "width": 3232
+              },
+              "on": "http://9a30b220-eef4-4fa2-962d-4434fe2a9927"
+            }
+          ],
+          "related": ""
+        },
+        {
+          "@id": "http://c49604b7-df38-4d58-b453-1e7bd70fa18e",
+          "@type": "sc:Canvas",
+          "label": "Savi-ed-esecutori-alle-acque-filza-123_0024_012-r",
+          "height": 4766,
+          "width": 3319,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "http://e17d3b15-74f9-4f8d-a890-9fb3b79c6064",
+              "@type": "oa:Annotation",
+              "motivation": "sc:manuscript",
+              "resource": {
+                "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0024_012-r/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0024_012-r",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "height": 4766,
+                "width": 3319
+              },
+              "on": "http://c49604b7-df38-4d58-b453-1e7bd70fa18e"
+            }
+          ],
+          "related": ""
+        },
+        {
+          "@id": "http://dbfef599-46b4-4bcb-9bf9-2d0829279b84",
+          "@type": "sc:Canvas",
+          "label": "Savi-ed-esecutori-alle-acque-filza-123_0025_012-v",
+          "height": 4777,
+          "width": 3392,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "http://91a64876-be86-49b1-a453-77f991ed7a5e",
+              "@type": "oa:Annotation",
+              "motivation": "sc:manuscript",
+              "resource": {
+                "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0025_012-v/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0025_012-v",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "height": 4777,
+                "width": 3392
+              },
+              "on": "http://dbfef599-46b4-4bcb-9bf9-2d0829279b84"
+            }
+          ],
+          "related": ""
+        },
+        {
+          "@id": "http://c02999a5-a697-43e6-9e98-2ea9ce4549a6",
+          "@type": "sc:Canvas",
+          "label": "Savi-ed-esecutori-alle-acque-filza-123_0026_013-r",
+          "height": 4792,
+          "width": 3299,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "http://7fbe879f-c736-482a-9ece-f4746896f658",
+              "@type": "oa:Annotation",
+              "motivation": "sc:manuscript",
+              "resource": {
+                "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0026_013-r/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0026_013-r",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "height": 4792,
+                "width": 3299
+              },
+              "on": "http://c02999a5-a697-43e6-9e98-2ea9ce4549a6"
+            }
+          ],
+          "related": ""
+        },
+        {
+          "@id": "http://6e8e63ac-8f37-42cf-9b62-bda05ac9dcc9",
+          "@type": "sc:Canvas",
+          "label": "Savi-ed-esecutori-alle-acque-filza-123_0027_013-v",
+          "height": 4798,
+          "width": 3368,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "http://d0e87969-4d2c-4990-a136-9ab526999971",
+              "@type": "oa:Annotation",
+              "motivation": "sc:manuscript",
+              "resource": {
+                "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0027_013-v/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0027_013-v",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "height": 4798,
+                "width": 3368
+              },
+              "on": "http://6e8e63ac-8f37-42cf-9b62-bda05ac9dcc9"
+            }
+          ],
+          "related": ""
+        },
+        {
+          "@id": "http://eb88567a-d8d6-40a9-b651-4ca6889a7a8a",
+          "@type": "sc:Canvas",
+          "label": "Savi-ed-esecutori-alle-acque-filza-123_0028_014-r",
+          "height": 4772,
+          "width": 3251,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "http://15592605-d122-4ed9-9e50-520f1f158990",
+              "@type": "oa:Annotation",
+              "motivation": "sc:manuscript",
+              "resource": {
+                "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0028_014-r/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0028_014-r",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "height": 4772,
+                "width": 3251
+              },
+              "on": "http://eb88567a-d8d6-40a9-b651-4ca6889a7a8a"
+            }
+          ],
+          "related": ""
+        },
+        {
+          "@id": "http://ca450139-3bb7-47c8-969e-d09b2726ace3",
+          "@type": "sc:Canvas",
+          "label": "Savi-ed-esecutori-alle-acque-filza-123_0029_014-v",
+          "height": 4783,
+          "width": 3360,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "http://6a537000-d134-4326-831b-7c3a4d44350f",
+              "@type": "oa:Annotation",
+              "motivation": "sc:manuscript",
+              "resource": {
+                "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0029_014-v/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0029_014-v",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "height": 4783,
+                "width": 3360
+              },
+              "on": "http://ca450139-3bb7-47c8-969e-d09b2726ace3"
+            }
+          ],
+          "related": ""
+        },
+        {
+          "@id": "http://36b6e144-3d48-4e5a-8c28-460e051aa5cf",
+          "@type": "sc:Canvas",
+          "label": "Savi-ed-esecutori-alle-acque-filza-123_0030_015-r",
+          "height": 854,
+          "width": 591,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "http://5f680aa9-fead-4936-87cd-edc114011953",
+              "@type": "oa:Annotation",
+              "motivation": "sc:manuscript",
+              "resource": {
+                "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0030_015-r/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0030_015-r",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "height": 854,
+                "width": 591
+              },
+              "on": "http://36b6e144-3d48-4e5a-8c28-460e051aa5cf"
+            }
+          ],
+          "related": ""
+        },
+        {
+          "@id": "http://9ecbae12-c333-4984-8c68-6d30f6467344",
+          "@type": "sc:Canvas",
+          "label": "Savi-ed-esecutori-alle-acque-filza-123_0031_015-v",
+          "height": 4795,
+          "width": 3276,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "http://b9542e9c-7f88-4bbd-b6a3-a67a3a8d1e17",
+              "@type": "oa:Annotation",
+              "motivation": "sc:manuscript",
+              "resource": {
+                "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0031_015-v/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0031_015-v",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "height": 4795,
+                "width": 3276
+              },
+              "on": "http://9ecbae12-c333-4984-8c68-6d30f6467344"
+            }
+          ],
+          "related": ""
+        },
+        {
+          "@id": "http://5fc0598c-134e-4eff-bda1-ca7440c68fef",
+          "@type": "sc:Canvas",
+          "label": "Savi-ed-esecutori-alle-acque-filza-123_0032_016-r",
+          "height": 4820,
+          "width": 3286,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "http://a183aebe-8ee0-4431-80e0-d5371856ece4",
+              "@type": "oa:Annotation",
+              "motivation": "sc:manuscript",
+              "resource": {
+                "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0032_016-r/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0032_016-r",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "height": 4820,
+                "width": 3286
+              },
+              "on": "http://5fc0598c-134e-4eff-bda1-ca7440c68fef"
+            }
+          ],
+          "related": ""
+        },
+        {
+          "@id": "http://62591cd7-6742-406b-b071-511f76b191dc",
+          "@type": "sc:Canvas",
+          "label": "Savi-ed-esecutori-alle-acque-filza-123_0033_016-v",
+          "height": 4752,
+          "width": 3260,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "http://d8d79024-2c36-44ea-8b55-5ded272a6bab",
+              "@type": "oa:Annotation",
+              "motivation": "sc:manuscript",
+              "resource": {
+                "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0033_016-v/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0033_016-v",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "height": 4752,
+                "width": 3260
+              },
+              "on": "http://62591cd7-6742-406b-b071-511f76b191dc"
+            }
+          ],
+          "related": ""
+        },
+        {
+          "@id": "http://e75963a3-4a0e-4b80-874d-572edd3bf5fb",
+          "@type": "sc:Canvas",
+          "label": "Savi-ed-esecutori-alle-acque-filza-123_0034_017-r",
+          "height": 4836,
+          "width": 3255,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "http://6766c660-5b29-4617-aad3-2ab1ba0635b3",
+              "@type": "oa:Annotation",
+              "motivation": "sc:manuscript",
+              "resource": {
+                "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0034_017-r/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0034_017-r",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "height": 4836,
+                "width": 3255
+              },
+              "on": "http://e75963a3-4a0e-4b80-874d-572edd3bf5fb"
+            }
+          ],
+          "related": ""
+        },
+        {
+          "@id": "http://2e226d01-b2de-482d-8f1c-d4807a5cf06d",
+          "@type": "sc:Canvas",
+          "label": "Savi-ed-esecutori-alle-acque-filza-123_0035_017-v",
+          "height": 4768,
+          "width": 3209,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "http://90d6b637-ea83-4bcb-9041-0f29763bc182",
+              "@type": "oa:Annotation",
+              "motivation": "sc:manuscript",
+              "resource": {
+                "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0035_017-v/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0035_017-v",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "height": 4768,
+                "width": 3209
+              },
+              "on": "http://2e226d01-b2de-482d-8f1c-d4807a5cf06d"
+            }
+          ],
+          "related": ""
+        },
+        {
+          "@id": "http://8b8e2908-8af1-4c07-b6ce-4532f07ca220",
+          "@type": "sc:Canvas",
+          "label": "Savi-ed-esecutori-alle-acque-filza-123_0036_018-r",
+          "height": 4736,
+          "width": 3189,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "http://25c869e7-44a0-42bc-91e8-37a69e049ee2",
+              "@type": "oa:Annotation",
+              "motivation": "sc:manuscript",
+              "resource": {
+                "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0036_018-r/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0036_018-r",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "height": 4736,
+                "width": 3189
+              },
+              "on": "http://8b8e2908-8af1-4c07-b6ce-4532f07ca220"
+            }
+          ],
+          "related": ""
+        },
+        {
+          "@id": "http://9b298957-0a11-42ff-931c-c26005cb71f6",
+          "@type": "sc:Canvas",
+          "label": "Savi-ed-esecutori-alle-acque-filza-123_0037_018-v",
+          "height": 4755,
+          "width": 3346,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "http://e58e0a06-9fb8-45ec-aa69-6c3e95e3de66",
+              "@type": "oa:Annotation",
+              "motivation": "sc:manuscript",
+              "resource": {
+                "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0037_018-v/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0037_018-v",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "height": 4755,
+                "width": 3346
+              },
+              "on": "http://9b298957-0a11-42ff-931c-c26005cb71f6"
+            }
+          ],
+          "related": ""
+        },
+        {
+          "@id": "http://44741c60-1e49-42d6-b17e-d98275b896e0",
+          "@type": "sc:Canvas",
+          "label": "Savi-ed-esecutori-alle-acque-filza-123_0038_019-r",
+          "height": 4798,
+          "width": 3180,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "http://03050b8a-2734-4006-a69e-96261b1e570d",
+              "@type": "oa:Annotation",
+              "motivation": "sc:manuscript",
+              "resource": {
+                "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0038_019-r/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0038_019-r",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "height": 4798,
+                "width": 3180
+              },
+              "on": "http://44741c60-1e49-42d6-b17e-d98275b896e0"
+            }
+          ],
+          "related": ""
+        },
+        {
+          "@id": "http://469ca9a1-2a84-468b-b852-1833143bd127",
+          "@type": "sc:Canvas",
+          "label": "Savi-ed-esecutori-alle-acque-filza-123_0039_019-v",
+          "height": 4757,
+          "width": 3255,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "http://4badf634-a85c-4670-8aad-649ffc78207e",
+              "@type": "oa:Annotation",
+              "motivation": "sc:manuscript",
+              "resource": {
+                "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0039_019-v/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0039_019-v",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "height": 4757,
+                "width": 3255
+              },
+              "on": "http://469ca9a1-2a84-468b-b852-1833143bd127"
+            }
+          ],
+          "related": ""
+        },
+        {
+          "@id": "http://e520e35d-807b-4525-b276-d9fed6e0a604",
+          "@type": "sc:Canvas",
+          "label": "Savi-ed-esecutori-alle-acque-filza-123_0040_020-r",
+          "height": 4812,
+          "width": 3222,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "http://e4d7fedc-7199-48ea-97fb-737688961100",
+              "@type": "oa:Annotation",
+              "motivation": "sc:manuscript",
+              "resource": {
+                "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0040_020-r/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0040_020-r",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "height": 4812,
+                "width": 3222
+              },
+              "on": "http://e520e35d-807b-4525-b276-d9fed6e0a604"
+            }
+          ],
+          "related": ""
+        },
+        {
+          "@id": "http://33ff6e7b-a5c8-4105-80a6-21d075d87028",
+          "@type": "sc:Canvas",
+          "label": "Savi-ed-esecutori-alle-acque-filza-123_0041_020-v",
+          "height": 4782,
+          "width": 3374,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "http://7e3a4caf-b40a-4e84-ba99-bc154c3e6d6c",
+              "@type": "oa:Annotation",
+              "motivation": "sc:manuscript",
+              "resource": {
+                "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0041_020-v/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0041_020-v",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "height": 4782,
+                "width": 3374
+              },
+              "on": "http://33ff6e7b-a5c8-4105-80a6-21d075d87028"
+            }
+          ],
+          "related": ""
+        },
+        {
+          "@id": "http://1376e180-1f5f-4ef0-975e-e259f3d0a101",
+          "@type": "sc:Canvas",
+          "label": "Savi-ed-esecutori-alle-acque-filza-123_0042_021-r",
+          "height": 4790,
+          "width": 3278,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "http://fa21fdc6-5870-4c50-962f-f71df816a8cb",
+              "@type": "oa:Annotation",
+              "motivation": "sc:manuscript",
+              "resource": {
+                "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0042_021-r/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0042_021-r",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "height": 4790,
+                "width": 3278
+              },
+              "on": "http://1376e180-1f5f-4ef0-975e-e259f3d0a101"
+            }
+          ],
+          "related": ""
+        },
+        {
+          "@id": "http://c852492c-6b85-4f4e-95bf-4fdc71202c1c",
+          "@type": "sc:Canvas",
+          "label": "Savi-ed-esecutori-alle-acque-filza-123_0043_021-v",
+          "height": 4779,
+          "width": 3310,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "http://12b2dcba-34d7-464c-b1cb-059db3337554",
+              "@type": "oa:Annotation",
+              "motivation": "sc:manuscript",
+              "resource": {
+                "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0043_021-v/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0043_021-v",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "height": 4779,
+                "width": 3310
+              },
+              "on": "http://c852492c-6b85-4f4e-95bf-4fdc71202c1c"
+            }
+          ],
+          "related": ""
+        },
+        {
+          "@id": "http://33b8bca7-2448-4292-8eba-a63ec7251d56",
+          "@type": "sc:Canvas",
+          "label": "Savi-ed-esecutori-alle-acque-filza-123_0044_022-r",
+          "height": 4652,
+          "width": 3063,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "http://b36fb639-6554-4e2b-8a20-75c42d7c3be1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:manuscript",
+              "resource": {
+                "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0044_022-r/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0044_022-r",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "height": 4652,
+                "width": 3063
+              },
+              "on": "http://33b8bca7-2448-4292-8eba-a63ec7251d56"
+            }
+          ],
+          "related": ""
+        },
+        {
+          "@id": "http://827c8b20-e2b2-438c-ab1b-415febf02cf0",
+          "@type": "sc:Canvas",
+          "label": "Savi-ed-esecutori-alle-acque-filza-123_0045_022-v",
+          "height": 4480,
+          "width": 2925,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "http://789c0b74-ab29-4955-9162-675bfb35af50",
+              "@type": "oa:Annotation",
+              "motivation": "sc:manuscript",
+              "resource": {
+                "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0045_022-v/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0045_022-v",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "height": 4480,
+                "width": 2925
+              },
+              "on": "http://827c8b20-e2b2-438c-ab1b-415febf02cf0"
+            }
+          ],
+          "related": ""
+        },
+        {
+          "@id": "http://285c1232-b83e-4256-a0fb-4687036308ed",
+          "@type": "sc:Canvas",
+          "label": "Savi-ed-esecutori-alle-acque-filza-123_0046_023-r",
+          "height": 4625,
+          "width": 2984,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "http://4269d91c-ee9e-4105-ab98-b7ba416ec42e",
+              "@type": "oa:Annotation",
+              "motivation": "sc:manuscript",
+              "resource": {
+                "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0046_023-r/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0046_023-r",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "height": 4625,
+                "width": 2984
+              },
+              "on": "http://285c1232-b83e-4256-a0fb-4687036308ed"
+            }
+          ],
+          "related": ""
+        },
+        {
+          "@id": "http://ad157be6-c70a-4d20-b99d-bea78dfdc58a",
+          "@type": "sc:Canvas",
+          "label": "Savi-ed-esecutori-alle-acque-filza-123_0047_023-v",
+          "height": 4520,
+          "width": 2942,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "http://9a232eb3-dea1-4fca-b99e-1049b6d9ab07",
+              "@type": "oa:Annotation",
+              "motivation": "sc:manuscript",
+              "resource": {
+                "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0047_023-v/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0047_023-v",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "height": 4520,
+                "width": 2942
+              },
+              "on": "http://ad157be6-c70a-4d20-b99d-bea78dfdc58a"
+            }
+          ],
+          "related": ""
+        },
+        {
+          "@id": "http://2f5fd63b-b37d-42af-8e24-a22881d64f16",
+          "@type": "sc:Canvas",
+          "label": "Savi-ed-esecutori-alle-acque-filza-123_0048_024-r",
+          "height": 4605,
+          "width": 3009,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "http://91d8bcdc-fdcf-4f43-9f9e-a4669a648386",
+              "@type": "oa:Annotation",
+              "motivation": "sc:manuscript",
+              "resource": {
+                "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0048_024-r/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0048_024-r",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "height": 4605,
+                "width": 3009
+              },
+              "on": "http://2f5fd63b-b37d-42af-8e24-a22881d64f16"
+            }
+          ],
+          "related": ""
+        },
+        {
+          "@id": "http://5890fb9c-f53f-405b-8372-76302e037bf7",
+          "@type": "sc:Canvas",
+          "label": "Savi-ed-esecutori-alle-acque-filza-123_0049_024-v",
+          "height": 4493,
+          "width": 3024,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "http://12b2ed4a-d72f-4242-b4b4-c127805915f0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:manuscript",
+              "resource": {
+                "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0049_024-v/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0049_024-v",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "height": 4493,
+                "width": 3024
+              },
+              "on": "http://5890fb9c-f53f-405b-8372-76302e037bf7"
+            }
+          ],
+          "related": ""
+        },
+        {
+          "@id": "http://b7f8176e-00fa-4f96-a300-e3477890a671",
+          "@type": "sc:Canvas",
+          "label": "Savi-ed-esecutori-alle-acque-filza-123_0050_025-r",
+          "height": 4557,
+          "width": 3007,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "http://ea73c392-014a-4c59-9572-1183546be654",
+              "@type": "oa:Annotation",
+              "motivation": "sc:manuscript",
+              "resource": {
+                "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0050_025-r/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0050_025-r",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "height": 4557,
+                "width": 3007
+              },
+              "on": "http://b7f8176e-00fa-4f96-a300-e3477890a671"
+            }
+          ],
+          "related": ""
+        },
+        {
+          "@id": "http://47eaa10f-2f29-42dd-81a7-c303f5b5bc39",
+          "@type": "sc:Canvas",
+          "label": "Savi-ed-esecutori-alle-acque-filza-123_0051_025-v",
+          "height": 4484,
+          "width": 2984,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "http://70fea901-a626-4f9d-bdf2-5b311de1d13c",
+              "@type": "oa:Annotation",
+              "motivation": "sc:manuscript",
+              "resource": {
+                "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0051_025-v/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0051_025-v",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "height": 4484,
+                "width": 2984
+              },
+              "on": "http://47eaa10f-2f29-42dd-81a7-c303f5b5bc39"
+            }
+          ],
+          "related": ""
+        },
+        {
+          "@id": "http://1e910116-e6a8-4ff6-b00d-a7f1c08ef93c",
+          "@type": "sc:Canvas",
+          "label": "Savi-ed-esecutori-alle-acque-filza-123_0052_026-r",
+          "height": 4767,
+          "width": 3272,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "http://14218b8c-cd86-466e-85c5-1d863ee124aa",
+              "@type": "oa:Annotation",
+              "motivation": "sc:manuscript",
+              "resource": {
+                "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0052_026-r/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0052_026-r",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "height": 4767,
+                "width": 3272
+              },
+              "on": "http://1e910116-e6a8-4ff6-b00d-a7f1c08ef93c"
+            }
+          ],
+          "related": ""
+        },
+        {
+          "@id": "http://78aa1be1-ae18-4f52-bb09-3fda53f76fbd",
+          "@type": "sc:Canvas",
+          "label": "Empty canvas",
+          "height": 4794,
+          "width": 3335,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "http://0dc96660-bc2a-4406-9dd2-436c8c91db10",
+              "@type": "oa:Annotation",
+              "motivation": "sc:manuscript",
+              "resource": {
+                "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0053_026-v/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0053_026-v",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "height": 4794,
+                "width": 3335
+              },
+              "on": "http://78aa1be1-ae18-4f52-bb09-3fda53f76fbd"
+            }
+          ],
+          "related": ""
+        }
+      ]
+    }
+  ],
+  "structures": []
+}
