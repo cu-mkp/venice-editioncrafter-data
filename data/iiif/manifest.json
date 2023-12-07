@@ -4351,6 +4351,1482 @@
 					]
 				}
 			]
+		},
+		{
+			"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f054",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f054/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f054/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0054_027-r",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 4781,
+								"width": 3309,
+								"service": [
+									{
+										"id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0054_027-r",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								],
+								"thumbnail": [
+									{
+										"id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0054_027-r/full/124,192/0/default.jpg",
+										"format": "image/jpeg",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f054"
+						}
+					]
+				}
+			],
+			"height": 4781,
+			"width": 3309,
+			"label": {
+				"none": [
+					"027r"
+				]
+			},
+			"annotations": [
+				{
+					"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f054/annotationPage/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f054/annotationPage/1/annotation/0",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "http://localhost:8080/interviste-pescatori_1r-35v/tei/null/f054.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f054"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f054/annotationPage/1/annotation/1",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "http://localhost:8080/interviste-pescatori_1r-35v/html/null/f054.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f054"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f055",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f055/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f055/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0055_027-v",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 4779,
+								"width": 3324,
+								"service": [
+									{
+										"id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0055_027-v",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								],
+								"thumbnail": [
+									{
+										"id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0055_027-v/full/124,192/0/default.jpg",
+										"format": "image/jpeg",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f055"
+						}
+					]
+				}
+			],
+			"height": 4779,
+			"width": 3324,
+			"label": {
+				"none": [
+					"027v"
+				]
+			},
+			"annotations": [
+				{
+					"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f055/annotationPage/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f055/annotationPage/1/annotation/0",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "http://localhost:8080/interviste-pescatori_1r-35v/tei/null/f055.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f055"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f055/annotationPage/1/annotation/1",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "http://localhost:8080/interviste-pescatori_1r-35v/html/null/f055.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f055"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f056",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f056/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f056/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0056_028-r",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 4803,
+								"width": 3405,
+								"service": [
+									{
+										"id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0056_028-r",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								],
+								"thumbnail": [
+									{
+										"id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0056_028-r/full/124,192/0/default.jpg",
+										"format": "image/jpeg",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f056"
+						}
+					]
+				}
+			],
+			"height": 4803,
+			"width": 3405,
+			"label": {
+				"none": [
+					"028r"
+				]
+			},
+			"annotations": [
+				{
+					"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f056/annotationPage/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f056/annotationPage/1/annotation/0",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "http://localhost:8080/interviste-pescatori_1r-35v/tei/null/f056.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f056"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f056/annotationPage/1/annotation/1",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "http://localhost:8080/interviste-pescatori_1r-35v/html/null/f056.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f056"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f057",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f057/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f057/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0057_028-v",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 4837,
+								"width": 3363,
+								"service": [
+									{
+										"id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0057_028-v",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								],
+								"thumbnail": [
+									{
+										"id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0057_028-v/full/124,192/0/default.jpg",
+										"format": "image/jpeg",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f057"
+						}
+					]
+				}
+			],
+			"height": 4837,
+			"width": 3363,
+			"label": {
+				"none": [
+					"028v"
+				]
+			},
+			"annotations": [
+				{
+					"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f057/annotationPage/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f057/annotationPage/1/annotation/0",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "http://localhost:8080/interviste-pescatori_1r-35v/tei/null/f057.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f057"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f057/annotationPage/1/annotation/1",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "http://localhost:8080/interviste-pescatori_1r-35v/html/null/f057.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f057"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f058",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f058/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f058/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0058_029-r",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 4831,
+								"width": 3231,
+								"service": [
+									{
+										"id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0058_029-r",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								],
+								"thumbnail": [
+									{
+										"id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0058_029-r/full/124,192/0/default.jpg",
+										"format": "image/jpeg",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f058"
+						}
+					]
+				}
+			],
+			"height": 4831,
+			"width": 3231,
+			"label": {
+				"none": [
+					"029r"
+				]
+			},
+			"annotations": [
+				{
+					"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f058/annotationPage/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f058/annotationPage/1/annotation/0",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "http://localhost:8080/interviste-pescatori_1r-35v/tei/null/f058.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f058"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f058/annotationPage/1/annotation/1",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "http://localhost:8080/interviste-pescatori_1r-35v/html/null/f058.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f058"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f059",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f059/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f059/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0059_029-v",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 4768,
+								"width": 3517,
+								"service": [
+									{
+										"id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0059_029-v",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								],
+								"thumbnail": [
+									{
+										"id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0059_029-v/full/124,192/0/default.jpg",
+										"format": "image/jpeg",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f059"
+						}
+					]
+				}
+			],
+			"height": 4768,
+			"width": 3517,
+			"label": {
+				"none": [
+					"029v"
+				]
+			},
+			"annotations": [
+				{
+					"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f059/annotationPage/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f059/annotationPage/1/annotation/0",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "http://localhost:8080/interviste-pescatori_1r-35v/tei/null/f059.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f059"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f059/annotationPage/1/annotation/1",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "http://localhost:8080/interviste-pescatori_1r-35v/html/null/f059.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f059"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f060",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f060/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f060/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0060_030-r",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 4775,
+								"width": 3275,
+								"service": [
+									{
+										"id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0060_030-r",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								],
+								"thumbnail": [
+									{
+										"id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0060_030-r/full/124,192/0/default.jpg",
+										"format": "image/jpeg",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f060"
+						}
+					]
+				}
+			],
+			"height": 4775,
+			"width": 3275,
+			"label": {
+				"none": [
+					"030r"
+				]
+			},
+			"annotations": [
+				{
+					"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f060/annotationPage/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f060/annotationPage/1/annotation/0",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "http://localhost:8080/interviste-pescatori_1r-35v/tei/null/f060.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f060"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f060/annotationPage/1/annotation/1",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "http://localhost:8080/interviste-pescatori_1r-35v/html/null/f060.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f060"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f061",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f061/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f061/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0061_030-v",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 4740,
+								"width": 3481,
+								"service": [
+									{
+										"id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0061_030-v",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								],
+								"thumbnail": [
+									{
+										"id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0061_030-v/full/124,192/0/default.jpg",
+										"format": "image/jpeg",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f061"
+						}
+					]
+				}
+			],
+			"height": 4740,
+			"width": 3481,
+			"label": {
+				"none": [
+					"030v"
+				]
+			},
+			"annotations": [
+				{
+					"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f061/annotationPage/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f061/annotationPage/1/annotation/0",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "http://localhost:8080/interviste-pescatori_1r-35v/tei/null/f061.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f061"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f061/annotationPage/1/annotation/1",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "http://localhost:8080/interviste-pescatori_1r-35v/html/null/f061.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f061"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f062",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f062/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f062/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0062_031-r",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 4805,
+								"width": 3279,
+								"service": [
+									{
+										"id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0062_031-r",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								],
+								"thumbnail": [
+									{
+										"id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0062_031-r/full/124,192/0/default.jpg",
+										"format": "image/jpeg",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f062"
+						}
+					]
+				}
+			],
+			"height": 4805,
+			"width": 3279,
+			"label": {
+				"none": [
+					"031r"
+				]
+			},
+			"annotations": [
+				{
+					"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f062/annotationPage/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f062/annotationPage/1/annotation/0",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "http://localhost:8080/interviste-pescatori_1r-35v/tei/null/f062.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f062"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f062/annotationPage/1/annotation/1",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "http://localhost:8080/interviste-pescatori_1r-35v/html/null/f062.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f062"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f063",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f063/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f063/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0063_031-v",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 4710,
+								"width": 3268,
+								"service": [
+									{
+										"id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0063_031-v",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								],
+								"thumbnail": [
+									{
+										"id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0063_031-v/full/124,192/0/default.jpg",
+										"format": "image/jpeg",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f063"
+						}
+					]
+				}
+			],
+			"height": 4710,
+			"width": 3268,
+			"label": {
+				"none": [
+					"031v"
+				]
+			},
+			"annotations": [
+				{
+					"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f063/annotationPage/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f063/annotationPage/1/annotation/0",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "http://localhost:8080/interviste-pescatori_1r-35v/tei/null/f063.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f063"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f063/annotationPage/1/annotation/1",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "http://localhost:8080/interviste-pescatori_1r-35v/html/null/f063.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f063"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f064",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f064/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f064/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0064_032-r",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 4831,
+								"width": 3297,
+								"service": [
+									{
+										"id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0064_032-r",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								],
+								"thumbnail": [
+									{
+										"id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0064_032-r/full/124,192/0/default.jpg",
+										"format": "image/jpeg",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f064"
+						}
+					]
+				}
+			],
+			"height": 4831,
+			"width": 3297,
+			"label": {
+				"none": [
+					"032r"
+				]
+			},
+			"annotations": [
+				{
+					"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f064/annotationPage/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f064/annotationPage/1/annotation/0",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "http://localhost:8080/interviste-pescatori_1r-35v/tei/null/f064.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f064"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f064/annotationPage/1/annotation/1",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "http://localhost:8080/interviste-pescatori_1r-35v/html/null/f064.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f064"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f065",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f065/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f065/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0065_032-v",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 4728,
+								"width": 3493,
+								"service": [
+									{
+										"id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0065_032-v",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								],
+								"thumbnail": [
+									{
+										"id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0065_032-v/full/124,192/0/default.jpg",
+										"format": "image/jpeg",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f065"
+						}
+					]
+				}
+			],
+			"height": 4728,
+			"width": 3493,
+			"label": {
+				"none": [
+					"032v"
+				]
+			},
+			"annotations": [
+				{
+					"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f065/annotationPage/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f065/annotationPage/1/annotation/0",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "http://localhost:8080/interviste-pescatori_1r-35v/tei/null/f065.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f065"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f065/annotationPage/1/annotation/1",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "http://localhost:8080/interviste-pescatori_1r-35v/html/null/f065.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f065"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f066",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f066/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f066/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0066_033-r",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 4822,
+								"width": 3261,
+								"service": [
+									{
+										"id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0066_033-r",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								],
+								"thumbnail": [
+									{
+										"id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0066_033-r/full/124,192/0/default.jpg",
+										"format": "image/jpeg",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f066"
+						}
+					]
+				}
+			],
+			"height": 4822,
+			"width": 3261,
+			"label": {
+				"none": [
+					"033r"
+				]
+			},
+			"annotations": [
+				{
+					"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f066/annotationPage/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f066/annotationPage/1/annotation/0",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "http://localhost:8080/interviste-pescatori_1r-35v/tei/null/f066.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f066"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f066/annotationPage/1/annotation/1",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "http://localhost:8080/interviste-pescatori_1r-35v/html/null/f066.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f066"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f067",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f067/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f067/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0067_033-v",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 4570,
+								"width": 3135,
+								"service": [
+									{
+										"id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0067_033-v",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								],
+								"thumbnail": [
+									{
+										"id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0067_033-v/full/124,192/0/default.jpg",
+										"format": "image/jpeg",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f067"
+						}
+					]
+				}
+			],
+			"height": 4570,
+			"width": 3135,
+			"label": {
+				"none": [
+					"033v"
+				]
+			},
+			"annotations": [
+				{
+					"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f067/annotationPage/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f067/annotationPage/1/annotation/0",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "http://localhost:8080/interviste-pescatori_1r-35v/tei/null/f067.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f067"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f067/annotationPage/1/annotation/1",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "http://localhost:8080/interviste-pescatori_1r-35v/html/null/f067.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f067"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f068",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f068/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f068/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0068_034-r",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 4881,
+								"width": 3327,
+								"service": [
+									{
+										"id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0068_034-r",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								],
+								"thumbnail": [
+									{
+										"id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0068_034-r/full/124,192/0/default.jpg",
+										"format": "image/jpeg",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f068"
+						}
+					]
+				}
+			],
+			"height": 4881,
+			"width": 3327,
+			"label": {
+				"none": [
+					"034r"
+				]
+			},
+			"annotations": [
+				{
+					"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f068/annotationPage/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f068/annotationPage/1/annotation/0",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "http://localhost:8080/interviste-pescatori_1r-35v/tei/null/f068.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f068"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f068/annotationPage/1/annotation/1",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "http://localhost:8080/interviste-pescatori_1r-35v/html/null/f068.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f068"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f069",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f069/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f069/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0069_034-v",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 4746,
+								"width": 3313,
+								"service": [
+									{
+										"id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0069_034-v",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								],
+								"thumbnail": [
+									{
+										"id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0069_034-v/full/124,192/0/default.jpg",
+										"format": "image/jpeg",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f069"
+						}
+					]
+				}
+			],
+			"height": 4746,
+			"width": 3313,
+			"label": {
+				"none": [
+					"034v"
+				]
+			},
+			"annotations": [
+				{
+					"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f069/annotationPage/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f069/annotationPage/1/annotation/0",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "http://localhost:8080/interviste-pescatori_1r-35v/tei/null/f069.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f069"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f069/annotationPage/1/annotation/1",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "http://localhost:8080/interviste-pescatori_1r-35v/html/null/f069.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f069"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f070",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f070/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f070/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0070_035-r",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 4780,
+								"width": 3298,
+								"service": [
+									{
+										"id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0070_035-r",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								],
+								"thumbnail": [
+									{
+										"id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0070_035-r/full/124,192/0/default.jpg",
+										"format": "image/jpeg",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f070"
+						}
+					]
+				}
+			],
+			"height": 4780,
+			"width": 3298,
+			"label": {
+				"none": [
+					"035r"
+				]
+			},
+			"annotations": [
+				{
+					"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f070/annotationPage/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f070/annotationPage/1/annotation/0",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "http://localhost:8080/interviste-pescatori_1r-35v/tei/null/f070.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f070"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f070/annotationPage/1/annotation/1",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "http://localhost:8080/interviste-pescatori_1r-35v/html/null/f070.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f070"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f071",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f071/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f071/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0071_035-v",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 4782,
+								"width": 3419,
+								"service": [
+									{
+										"id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0071_035-v",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								],
+								"thumbnail": [
+									{
+										"id": "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0071_035-v/full/124,192/0/default.jpg",
+										"format": "image/jpeg",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f071"
+						}
+					]
+				}
+			],
+			"height": 4782,
+			"width": 3419,
+			"label": {
+				"none": [
+					"035v"
+				]
+			},
+			"annotations": [
+				{
+					"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f071/annotationPage/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f071/annotationPage/1/annotation/0",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "http://localhost:8080/interviste-pescatori_1r-35v/tei/null/f071.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f071"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f071/annotationPage/1/annotation/1",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "http://localhost:8080/interviste-pescatori_1r-35v/html/null/f071.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "http://localhost:8080/interviste-pescatori_1r-35v/iiif/canvas/f071"
+						}
+					]
+				}
+			]
 		}
 	],
 	"label": {
