@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 110,
+    "height" : 149
+  }, {
+    "width" : 220,
+    "height" : 298
+  }, {
+    "width" : 440,
+    "height" : 596
+  }, {
+    "width" : 880,
+    "height" : 1192
+  }, {
+    "width" : 1759,
+    "height" : 2384
+  }, {
+    "width" : 3517,
+    "height" : 4768
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 3517,
+  "@id" : "https://cu-mkp.github.io/venice-editioncrafter-data/images/iiif/Savi-ed-esecutori-alle-acque-filza-123_0059_029-v",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 4768
+}
