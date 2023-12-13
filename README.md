@@ -31,5 +31,14 @@ Because this repository may be used by beginners, a number of helpful how-tos ha
 This repository has two main areas: 
 1. [texts/](texts/) directory - all files associated with an edition's source material (i.e., transcriptions and translations)
 2. [metadata/](metadata/) directory - all metadata (data about data) associated with an edition
+3. [data/](data/) directory - this is where the EditionCrafter data is stored for the texts.
 
 This is based upon the model used for the creation of *Secrets of Craft and Nature*. M&K's repository for BnF Ms. Fr. 640’s data is [cu-mkp/m-k-manuscript-data](https://github.com/cu-mkp/m-k-manuscript-data) and the “read me” file (scroll down below the file and directory listings on the repo's homepage) describes the repo's structure and how M&K has already worked with Github for *Secrets of Craft and Nature*.
+
+## Updating the EditionCrafter Texts
+
+To update the data that EditionCrafter uses to render the texts, you first need to install the EditionCrafter CLI. Once that is installed, run the following command in the base directory of this repo:
+
+`editioncrafter process texts/interviste-pescatori_1r-35v.xml data https://cu-mkp.github.io/venice-editioncrafter-data/data`
+
+This will update the data directory with the latest data for this edition.
