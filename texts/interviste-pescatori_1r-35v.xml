@@ -52,7 +52,7 @@
             </classDecl>
         </encodingDesc>
     </teiHeader>
-    <text>
+    <text xml:id="transcription">
         <pb facs="#f001"/>
         <body>
             <pb facs="#f002"/>
